@@ -129,6 +129,7 @@ Camada otimizada para consumo analítico, dashboards e KPIs.
 ---
 
 ## 📊 Dashboard (Power BI)
+<img width="1577" height="895" alt="dashbaord" src="https://github.com/user-attachments/assets/4561f1ab-6cde-46fc-b834-7677bce09133" />
 
 Os dados da camada **Gold** foram consumidos no Power BI para criação de um dashboard com:
 
@@ -165,6 +166,8 @@ Os dados da camada **Gold** foram consumidos no Power BI para criação de um da
 * GitHub
 
 ---
+## PIPELINE
+<img width="1622" height="813" alt="pipeline_etl7" src="https://github.com/user-attachments/assets/68e41cb2-e8d0-4e38-80de-b783887d99de" />
 
 ## 🎯 Conclusão
 
