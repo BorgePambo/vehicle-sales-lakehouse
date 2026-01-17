@@ -1,4 +1,5 @@
 # vehicle-sales-lakehouse
+<img width="1536" height="1024" alt="stack-modern" src="https://github.com/user-attachments/assets/b5be5b26-5048-43be-83c8-a9e7e17798b0" />
 
 # 🚗 Autoprime Car Lakehouse
 
